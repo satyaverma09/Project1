@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EE2C-A622
+
+ Directory of C:\Users\satya\OneDrive\Desktop\p1
+
+28-12-2022  19:47    <DIR>          .
+28-12-2022  19:47    <DIR>          ..
+28-12-2022  17:31                22 index.html
+28-12-2022  17:31               361 text1.txt
+28-12-2022  19:47                 0 text2.txt
+               3 File(s)            383 bytes
+               2 Dir(s)  69,716,758,528 bytes free
